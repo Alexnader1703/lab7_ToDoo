@@ -1,0 +1,18 @@
+.stats-panel {
+    background-color: #f7f7f7;
+    padding: 20px;
+    border-radius: 5px;
+    text-align: center;
+    margin-top: 20px;
+  }
+  
+  .stats-panel p {
+    font-size: 18px;
+    margin: 5px 0;
+    font-weight: bold;
+  }
+  
+  .stats-panel span {
+    color: #4caf50;
+  }
+  

@@ -1,0 +1,26 @@
+.filter-panel {
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+    margin-bottom: 20px;
+  }
+  
+  .filter-panel button {
+    padding: 10px 20px;
+    font-size: 16px;
+    background-color: #4caf50;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+  }
+  
+  .filter-panel button:hover {
+    background-color: #45a049;
+  }
+  
+  .filter-panel button:active {
+    transform: scale(0.98);
+  }
+  
